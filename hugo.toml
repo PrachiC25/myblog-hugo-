@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://prachi25.github.io/myblog-hugo-/'
 languageCode = 'en-us'
 title = 'BLOGS'
 theme = "ananke"
@@ -7,13 +7,9 @@ enableRobotsTXT = true
 [params]
   description = "A blog about web development and technology."
 
-
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
 
 [taxonomies]
   category = "categories"
   tag = "tags"
-
-
-
