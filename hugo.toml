@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'BLOGS'
+theme = "ananke"
+enableRobotsTXT = true
+
+[params]
+  description = "A blog about web development and technology."
+
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+

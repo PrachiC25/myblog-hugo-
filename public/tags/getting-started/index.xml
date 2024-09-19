@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on BLOGS</title>
+    <link>http://localhost:1313/tags/getting-started/</link>
+    <description>Recent content in Getting Started on BLOGS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2024 09:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://localhost:1313/2024/08/23/getting-started-with-hugo/</link>
+      <pubDate>Fri, 23 Aug 2024 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/08/23/getting-started-with-hugo/</guid>
+      <description>If you&amp;rsquo;re new to Hugo, this post will guide you through the initial setup and get you started with your first Hugo site.&#xA;Installation To install Hugo, follow these steps:&#xA;Download Hugo: Go to the Hugo Releases page and download the latest version for your operating system. Install Hugo: Extract the downloaded file and add the Hugo executable to your system PATH. Creating Your First Site Once Hugo is installed, you can create a new site with the following command:</description>
+    </item>
+  </channel>
+</rss>

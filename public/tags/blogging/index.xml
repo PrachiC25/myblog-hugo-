@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on TECHNICAL BLOGS</title>
+    <link>http://localhost:1313/tags/blogging/</link>
+    <description>Recent content in Blogging on TECHNICAL BLOGS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Blog with Hugo</title>
+      <link>http://localhost:1313/2024/08/23/creating-a-blog-with-hugo/</link>
+      <pubDate>Fri, 23 Aug 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/08/23/creating-a-blog-with-hugo/</guid>
+      <description>In this post, we’ll go through the steps to create a blog using Hugo. Follow along to build your own blog from scratch.&#xA;Steps to Create a Blog Install Hugo: Download and install Hugo. Create a New Site: Use the hugo new site command. Add Content: Create and edit posts in Markdown. With Hugo, setting up a blog is straightforward and efficient.</description>
+    </item>
+  </channel>
+</rss>
