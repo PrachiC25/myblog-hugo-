@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on BLOGS</title>
-    <link>https://prachi25.github.io/myblog-hugo-/categories/hugo/</link>
+    <link>https://prachic25.github.io/myblog-hugo-/categories/hugo/</link>
     <description>Recent content in Hugo on BLOGS</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Aug 2024 09:00:00 +0000</lastBuildDate>
-    <atom:link href="https://prachi25.github.io/myblog-hugo-/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://prachic25.github.io/myblog-hugo-/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Responsive Web Design</title>
-      <link>https://prachi25.github.io/myblog-hugo-/2024/08/25/introduction-to-responsive-web-design/</link>
+      <link>https://prachic25.github.io/myblog-hugo-/2024/08/25/introduction-to-responsive-web-design/</link>
       <pubDate>Sun, 25 Aug 2024 09:00:00 +0000</pubDate>
-      <guid>https://prachi25.github.io/myblog-hugo-/2024/08/25/introduction-to-responsive-web-design/</guid>
+      <guid>https://prachic25.github.io/myblog-hugo-/2024/08/25/introduction-to-responsive-web-design/</guid>
       <description>Responsive web design is a critical approach in modern web development. It ensures that your website looks great and functions well on all devices, from desktops to mobile phones.&#xA;What is Responsive Web Design? Responsive web design (RWD) is a design strategy that allows web pages to adapt to different screen sizes and orientations. By using flexible layouts, images, and CSS media queries, a responsive website can provide an optimal viewing experience across a wide range of devices.</description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://prachi25.github.io/myblog-hugo-/2024/08/23/hugo/</link>
+      <link>https://prachic25.github.io/myblog-hugo-/2024/08/23/hugo/</link>
       <pubDate>Fri, 23 Aug 2024 09:00:00 +0000</pubDate>
-      <guid>https://prachi25.github.io/myblog-hugo-/2024/08/23/hugo/</guid>
+      <guid>https://prachic25.github.io/myblog-hugo-/2024/08/23/hugo/</guid>
       <description>If you&amp;rsquo;re new to Hugo, this post will guide you through the initial setup and get you started with your first Hugo site.&#xA;Installation To install Hugo, follow these steps:&#xA;Download Hugo: Go to the Hugo Releases page and download the latest version for your operating system. Install Hugo: Extract the downloaded file and add the Hugo executable to your system PATH. Creating Your First Site Once Hugo is installed, you can create a new site with the following command:</description>
     </item>
     <item>
       <title>Understanding Hugo</title>
-      <link>https://prachi25.github.io/myblog-hugo-/2024/08/22/understanding-hugo/</link>
+      <link>https://prachic25.github.io/myblog-hugo-/2024/08/22/understanding-hugo/</link>
       <pubDate>Thu, 22 Aug 2024 10:00:00 +0000</pubDate>
-      <guid>https://prachi25.github.io/myblog-hugo-/2024/08/22/understanding-hugo/</guid>
+      <guid>https://prachic25.github.io/myblog-hugo-/2024/08/22/understanding-hugo/</guid>
       <description>Hugo is a fast and flexible static site generator that helps you build websites quickly. In this post, we’ll explore its features and benefits.&#xA;Features of Hugo Speed: Hugo generates static files rapidly. Flexibility: Customize your site with themes and templates. Stay tuned for more tips and tutorials on using Hugo effectively.</description>
     </item>
   </channel>
