@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSS Grid on BLOGS</title>
-    <link>https://prachic25.github.io/myblog-hugo-/tags/css-grid/</link>
+    <link>https://prachi25.github.io/myblog-hugo-/tags/css-grid/</link>
     <description>Recent content in CSS Grid on BLOGS</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Aug 2024 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://prachic25.github.io/myblog-hugo-/tags/css-grid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://prachi25.github.io/myblog-hugo-/tags/css-grid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring CSS Grid Layout</title>
-      <link>https://prachic25.github.io/myblog-hugo-/2024/08/28/exploring-css-grid-layout/</link>
+      <link>https://prachi25.github.io/myblog-hugo-/2024/08/28/exploring-css-grid-layout/</link>
       <pubDate>Wed, 28 Aug 2024 15:00:00 +0000</pubDate>
-      <guid>https://prachic25.github.io/myblog-hugo-/2024/08/28/exploring-css-grid-layout/</guid>
+      <guid>https://prachi25.github.io/myblog-hugo-/2024/08/28/exploring-css-grid-layout/</guid>
       <description>CSS Grid Layout is a powerful tool for creating complex web layouts with ease. It provides a two-dimensional grid-based approach, allowing for precise control over layout and positioning.&#xA;Key Features of CSS Grid 1. Grid Container and Items Define a grid container using display: grid and place grid items inside it. The grid container manages the layout of its child items.&#xA;.container { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; } .</description>
     </item>
   </channel>
